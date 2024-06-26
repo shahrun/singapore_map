@@ -1,0 +1,1 @@
+osmium tags-filter singapore.osm.pbf -o singapore_highway.osm.pbf w/highway=motorway,trunk,primary,secondary,tertiary,unclassified,residential,service,motorway_link,trunk_link,primary_link,secondary_link,motorway_junction
